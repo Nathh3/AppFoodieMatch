@@ -1,0 +1,114 @@
+﻿@page "/usuario"
+@using FoodieMatchApp.Models
+@using FoodieMatchApp.Services
+@inject UsuarioService UsuarioService
+@inject NavigationManager Navigation
+
+<h2 class="titulo">👤 Perfil del Usuario</h2>
+
+@if (usuario == null)
+{
+    <p class="cargando">Cargando información del usuario...</p>
+}
+else
+{
+    <div class="usuario-card">
+        <div class="usuario-info">
+            @if (editando)
+            {
+                <div class="form-group">
+                    <label>Nombre:</label>
+                    <input type="text" @bind="usuarioEdit.Nombre" class="form-control" />
+                </div>
+                <div class="form-group">
+                    <label>Email:</label>
+                    <input type="email" @bind="usuarioEdit.Email" class="form-control" />
+                </div>
+                <div class="form-group">
+                    <label>Dirección:</label>
+                    <input type="text" @bind="usuarioEdit.Direccion" class="form-control" />
+                </div>
+                <div class="form-group">
+                    <label>Latitud:</label>
+                    <input type="number" step="any" @bind="usuarioEdit.Latitud" class="form-control" />
+                </div>
+                <div class="form-group">
+                    <label>Longitud:</label>
+                    <input type="number" step="any" @bind="usuarioEdit.Longitud" class="form-control" />
+                </div>
+            }
+            else
+            {
+                <p><strong>ID:</strong> @usuario.UsuarioId</p>
+                <p><strong>Nombre:</strong> @usuario.Nombre</p>
+                <p><strong>Email:</strong> @usuario.Email</p>
+                <p><strong>Dirección:</strong> @usuario.Direccion</p>
+                <p><strong>Ubicación:</strong> Lat: @usuario.Latitud, Lon: @usuario.Longitud</p>
+            }
+        </div>
+
+        <div class="acciones">
+            @if (editando)
+            {
+                <button class="btn-guardar" @onclick="GuardarUsuario">💾 Guardar</button>
+                <button class="btn-cancelar" @onclick="CancelarEdicion">❌ Cancelar</button>
+            }
+            else
+            {
+                <button class="btn-editar" @onclick="EditarUsuario">✏️ Editar</button>
+            }
+        </div>
+    </div>
+}
+
+
+
+@code {
+    private FoodieMatchApp.Models.Usuario? usuario;
+    private FoodieMatchApp.Models.Usuario usuarioEdit = new();
+    private bool editando = false;
+
+    protected override async Task OnInitializedAsync() => usuario = await UsuarioService.GetById(1);
+
+    private void EditarUsuario()
+    {
+        if (usuario != null)
+        {
+            usuarioEdit = new FoodieMatchApp.Models.Usuario
+            {
+                UsuarioId = usuario.UsuarioId,
+                Nombre = usuario.Nombre,
+                Email = usuario.Email,
+                Direccion = usuario.Direccion,
+                Latitud = usuario.Latitud,
+                Longitud = usuario.Longitud,
+                PasswordHash = usuario.PasswordHash
+            };
+            editando = true;
+        }
+    }
+
+    private async Task GuardarUsuario()
+    {
+        if (usuarioEdit != null)
+        {
+            await UsuarioService.Update(usuarioEdit);
+            usuario = new FoodieMatchApp.Models.Usuario
+            {
+                UsuarioId = usuarioEdit.UsuarioId,
+                Nombre = usuarioEdit.Nombre,
+                Email = usuarioEdit.Email,
+                Direccion = usuarioEdit.Direccion,
+                Latitud = usuarioEdit.Latitud,
+                Longitud = usuarioEdit.Longitud,
+                PasswordHash = usuarioEdit.PasswordHash
+            };
+            editando = false;
+        }
+    }
+
+    private void CancelarEdicion()
+    {
+        editando = false;
+    }
+}

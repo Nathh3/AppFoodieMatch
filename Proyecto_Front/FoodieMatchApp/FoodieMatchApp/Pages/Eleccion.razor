@@ -1,0 +1,92 @@
+﻿@page "/eleccion"
+@using FoodieMatchApp.Models
+@using Services
+@inject EleccionService EleccionService
+@inject ProductoService ProductoService
+@inject RestauranteService RestauranteService
+
+<h3 class="titulo">Tus elecciones favoritas</h3>
+
+@if (elecciones == null)
+{
+    <div class="empty">Cargando elecciones...</div>
+}
+else if (!elecciones.Any())
+{
+    <div class="empty">No has dado like a ningún producto aún.</div>
+}
+else
+{
+    <div class="row">
+        @foreach (var eleccion in elecciones)
+        {
+            var producto = productos.FirstOrDefault(p => p.ProductoId == eleccion.ProductoId);
+            var restaurante = restaurantes.FirstOrDefault(r => r.RestauranteId == producto?.RestauranteId);
+
+            <div class="col-md-4 mb-4">
+                <div class="card" @onclick="() => ToggleExpand(eleccion.EleccionId)">
+                    <img class="card-img-top" src="@GetImageUrl(producto)" alt="@producto?.Nombre" />
+                    <div class="card-body">
+                        <h5 class="card-title">@producto?.Nombre</h5>
+                        <p class="card-text">Restaurante: @restaurante?.Nombre</p>
+                        <p class="card-text">Fecha: @eleccion.FechaEleccion.ToLocalTime().ToString("g")</p>
+                        @if (expandedId == eleccion.EleccionId)
+                        {
+                            <div class="card-details mt-2">
+                                @* <p><strong>Descripción:</strong> @producto?.Descripcion</p> *@
+                                <p><strong>Precio:</strong> @producto?.Precio.ToString("C")</p>
+                                <p><strong>Dirección Restaurante:</strong> @restaurante?.Direccion</p>
+                                <p><strong>Teléfono Restaurante:</strong> @restaurante?.Telefono</p>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+}
+
+@code {
+    private List<FoodieMatchApp.Models.Eleccion> elecciones = new(); // no nos dejo asi private List<Eleccion> elecciones = new();
+    private List<Producto> productos = new();
+    private List<Restaurante> restaurantes = new();
+    private int expandedId = -1;
+    private int usuarioId = 1; // Simulación de usuario actual
+
+    protected override async Task OnInitializedAsync()
+    {
+        elecciones = (await EleccionService.GetByUsuarioId(usuarioId))//traer solamente el metodo que se creo en el servicio EleccionService
+            .Where(e => e.UsuarioId == usuarioId)
+            .ToList();
+
+        productos = await ProductoService.GetAll();
+        restaurantes = await RestauranteService.GetAll();
+    }
+
+    private void ToggleExpand(int eleccionId)
+    {
+        expandedId = expandedId == eleccionId ? -1 : eleccionId;
+    }
+
+    private string GetImageUrl(Producto? producto)
+    {
+        if (producto != null && !string.IsNullOrWhiteSpace(producto.Imagen_URL))
+            return producto.Imagen_URL;
+
+        var images = new[]
+        {
+            "/images/hamburguesa.png",
+            "/images/hamburguesa2.jpg",
+            "/images/hamburguesa3.jpg",
+            "/images/pizza.jpg",
+            "/images/pizza2.jpg",
+            "/images/pizza3.jpg"
+        };
+        var random = new Random(producto?.ProductoId ?? 0);
+        int index = random.Next(images.Length);
+        return images[index];
+    }
+}
+
+
+}

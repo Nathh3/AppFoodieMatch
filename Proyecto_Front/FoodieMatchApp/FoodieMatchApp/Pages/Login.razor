@@ -1,0 +1,47 @@
+﻿@page "/login"
+@layout LoginLayout
+@inject NavigationManager Navigation
+
+
+<h2 class="login-title">¿Tienes hambre? Inicia sesión</h2>
+
+<div class="login-container">
+    <div class="login-box">
+        <h3>🍽️ Foodie Match</h3>
+
+        <div class="form-group">
+            <label>Usuario</label>
+            <input type="text" @bind="username" placeholder="Ingresa tu usuario" />
+        </div>
+
+        <div class="form-group">
+            <label>Contraseña</label>
+            <input type="password" @bind="password" placeholder="••••••" />
+        </div>
+
+        <button class="btn-login" @onclick="OnLogin">Ingresar</button>
+
+        @if (!string.IsNullOrEmpty(errorMessage))
+        {
+            <p class="error">@errorMessage</p>
+        }
+    </div>
+</div>
+
+@code {
+    private string username = string.Empty;
+    private string password = string.Empty;
+    private string errorMessage = string.Empty;
+
+    private void OnLogin()
+    {
+        if (username == "admin" && password == "admin")
+        {
+            Navigation.NavigateTo("/home");
+        }
+        else
+        {
+            errorMessage = "Usuario o contraseña incorrectos.";
+        }
+    }
+}

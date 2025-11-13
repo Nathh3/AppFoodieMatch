@@ -1,0 +1,40 @@
+﻿@inherits LayoutComponentBase
+
+<div class="app-shell">
+    <!-- Sidebar -->
+    <nav class="sidebar">
+        <div class="sidebar-header">
+            <h3>🍽️ Foodie Match</h3>
+        </div>
+
+        <ul class="nav flex-column">
+            <li class="nav-item">
+                <NavLink href="/" class="nav-link" Match="NavLinkMatch.All">
+                    <i class="bi bi-house"></i> Home
+                </NavLink>
+            </li>
+            <li class="nav-item">
+                <NavLink href="/eleccion" class="nav-link">
+                    <i class="bi bi-heart"></i> Elección
+                </NavLink>
+            </li>
+            <li class="nav-item">
+                <NavLink href="/usuario" class="nav-link">
+                    <i class="bi bi-person"></i> Usuario
+                </NavLink>
+            </li>
+        </ul>
+    </nav>
+
+    <!-- Contenido principal -->
+    <main class="main-content">
+        @Body
+    </main>
+
+    <!-- Footer -->
+    <footer class="app-footer">
+        <div class="footer-content">
+            <p>&copy; 2024 FoodieMatch - Tu comida en un swipe</p>
+        </div>
+    </footer>
+</div>

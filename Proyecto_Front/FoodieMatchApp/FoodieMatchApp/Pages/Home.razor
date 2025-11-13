@@ -1,0 +1,123 @@
+﻿@page "/"
+@using FoodieMatchApp.Models
+@using Services
+@inject EleccionService EleccionService
+@inject ProductoService ProductoService
+@* @Layout MainLayout *@
+
+<h3 class="titulo">¿Qué te apetece hoy?</h3>
+
+<div class="discover-card">
+
+    @if (current == null)
+    {
+        <div class="empty">Cargando productos...</div>
+    }
+    else
+    {
+        <div class="image-wrap">
+            <img src="@GetImageUrl()" alt="@current.Nombre" />
+        </div>
+
+        <div class="info">
+            <div class="title">
+                <strong>@current.Nombre</strong>
+                <span class="price">@current.Precio.ToString("C")</span>
+            </div>
+            <p class="resto">Restaurante: @current.RestauranteId</p>
+        </div>
+
+        <div class="actions">
+            <button class="btn btn-dislike" @onclick="OnDislike" title="No me gusta">❌</button>
+            <button class="btn btn-like" @onclick="OnLike" title="Me gusta">❤️</button>
+        </div>
+    }
+</div>
+
+@code {
+    private List<Producto> productos = new();
+    private Producto? current;
+    private readonly Random rng = new();
+
+    protected override async Task OnInitializedAsync()
+    {
+        productos = await ProductoService.GetAll();
+        if (productos.Any())
+            current = productos[rng.Next(productos.Count)];
+    }
+
+    private string GetImageUrl(/* Producto p */)
+    {
+        // cuando haya rutas en API
+        // if (!string.IsNullOrWhiteSpace(p.Imagen_URL))
+        //     return p.Imagen_URL;
+        // return "/images/hamburguesa.jpg";
+
+        // lista de imágenes locales disponibles en wwwroot/images
+        var images = new[]
+        {
+        "/images/hamburguesa.png",
+        "/images/hamburguesa2.jpg",
+        "/images/hamburguesa3.jpg",
+        "/images/pizza.jpg",
+        "/images/pizza2.jpg",
+        "/images/pizza3.jpg"
+
+    };
+        var random = new Random();
+        int index = random.Next(images.Length);
+        return images[index];
+    }
+
+    private async Task OnLike()
+    {
+        if (current == null) return;
+
+        var eleccion = new FoodieMatchApp.Models.Eleccion // por que no reconoces Eleccion?
+        {
+
+            UsuarioId = 1,
+            ProductoId = current.ProductoId,
+            FechaEleccion = DateTime.UtcNow
+        };
+
+        await EleccionService.Create(eleccion);
+        ShowRandomProduct();
+
+
+
+    }
+
+
+    private void OnDislike()
+    {
+        // Mostrar producto random distinto al actual
+        ShowRandomProduct();
+    }
+
+    private void ShowRandomProduct()
+    {
+        if (!productos.Any())
+        {
+            current = null;
+            return;
+        }
+
+        if (productos.Count == 1)
+        {
+            current = productos[0];
+            return;
+        }
+
+        Producto next;
+        int attempts = 0;
+        do
+        {
+            next = productos[rng.Next(productos.Count)];
+            attempts++;
+        } while (next.ProductoId == current?.ProductoId && attempts < 10);
+
+        current = next;
+        StateHasChanged();
+    }
+}

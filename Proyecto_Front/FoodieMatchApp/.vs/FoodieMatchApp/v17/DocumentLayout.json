@@ -1,0 +1,345 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FinalConstruccion\\Proyecto_Front\\FoodieMatchApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFE74A3-1157-433D-A1C2-30A47DD0B98F}|FoodieMatchApp\\FoodieMatchApp.csproj|d:\\finalconstruccion\\proyecto_front\\foodiematchapp\\foodiematchapp\\pages\\eleccion.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBFE74A3-1157-433D-A1C2-30A47DD0B98F}|FoodieMatchApp\\FoodieMatchApp.csproj|solutionrelative:foodiematchapp\\pages\\eleccion.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFE74A3-1157-433D-A1C2-30A47DD0B98F}|FoodieMatchApp\\FoodieMatchApp.csproj|d:\\finalconstruccion\\proyecto_front\\foodiematchapp\\foodiematchapp\\services\\eleccionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFE74A3-1157-433D-A1C2-30A47DD0B98F}|FoodieMatchApp\\FoodieMatchApp.csproj|solutionrelative:foodiematchapp\\services\\eleccionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFE74A3-1157-433D-A1C2-30A47DD0B98F}|FoodieMatchApp\\FoodieMatchApp.csproj|d:\\finalconstruccion\\proyecto_front\\foodiematchapp\\foodiematchapp\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBFE74A3-1157-433D-A1C2-30A47DD0B98F}|FoodieMatchApp\\FoodieMatchApp.csproj|solutionrelative:foodiematchapp\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFE74A3-1157-433D-A1C2-30A47DD0B98F}|FoodieMatchApp\\FoodieMatchApp.csproj|d:\\finalconstruccion\\proyecto_front\\foodiematchapp\\foodiematchapp\\pages\\usuario.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBFE74A3-1157-433D-A1C2-30A47DD0B98F}|FoodieMatchApp\\FoodieMatchApp.csproj|solutionrelative:foodiematchapp\\pages\\usuario.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFE74A3-1157-433D-A1C2-30A47DD0B98F}|FoodieMatchApp\\FoodieMatchApp.csproj|d:\\finalconstruccion\\proyecto_front\\foodiematchapp\\foodiematchapp\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBFE74A3-1157-433D-A1C2-30A47DD0B98F}|FoodieMatchApp\\FoodieMatchApp.csproj|solutionrelative:foodiematchapp\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFE74A3-1157-433D-A1C2-30A47DD0B98F}|FoodieMatchApp\\FoodieMatchApp.csproj|d:\\finalconstruccion\\proyecto_front\\foodiematchapp\\foodiematchapp\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFE74A3-1157-433D-A1C2-30A47DD0B98F}|FoodieMatchApp\\FoodieMatchApp.csproj|solutionrelative:foodiematchapp\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFE74A3-1157-433D-A1C2-30A47DD0B98F}|FoodieMatchApp\\FoodieMatchApp.csproj|d:\\finalconstruccion\\proyecto_front\\foodiematchapp\\foodiematchapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFE74A3-1157-433D-A1C2-30A47DD0B98F}|FoodieMatchApp\\FoodieMatchApp.csproj|solutionrelative:foodiematchapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFE74A3-1157-433D-A1C2-30A47DD0B98F}|FoodieMatchApp\\FoodieMatchApp.csproj|d:\\finalconstruccion\\proyecto_front\\foodiematchapp\\foodiematchapp\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBFE74A3-1157-433D-A1C2-30A47DD0B98F}|FoodieMatchApp\\FoodieMatchApp.csproj|solutionrelative:foodiematchapp\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFE74A3-1157-433D-A1C2-30A47DD0B98F}|FoodieMatchApp\\FoodieMatchApp.csproj|d:\\finalconstruccion\\proyecto_front\\foodiematchapp\\foodiematchapp\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BBFE74A3-1157-433D-A1C2-30A47DD0B98F}|FoodieMatchApp\\FoodieMatchApp.csproj|solutionrelative:foodiematchapp\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFE74A3-1157-433D-A1C2-30A47DD0B98F}|FoodieMatchApp\\FoodieMatchApp.csproj|d:\\finalconstruccion\\proyecto_front\\foodiematchapp\\foodiematchapp\\wwwroot\\css\\usuario.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BBFE74A3-1157-433D-A1C2-30A47DD0B98F}|FoodieMatchApp\\FoodieMatchApp.csproj|solutionrelative:foodiematchapp\\wwwroot\\css\\usuario.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFE74A3-1157-433D-A1C2-30A47DD0B98F}|FoodieMatchApp\\FoodieMatchApp.csproj|d:\\finalconstruccion\\proyecto_front\\foodiematchapp\\foodiematchapp\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BBFE74A3-1157-433D-A1C2-30A47DD0B98F}|FoodieMatchApp\\FoodieMatchApp.csproj|solutionrelative:foodiematchapp\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFE74A3-1157-433D-A1C2-30A47DD0B98F}|FoodieMatchApp\\FoodieMatchApp.csproj|d:\\finalconstruccion\\proyecto_front\\foodiematchapp\\foodiematchapp\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFE74A3-1157-433D-A1C2-30A47DD0B98F}|FoodieMatchApp\\FoodieMatchApp.csproj|solutionrelative:foodiematchapp\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFE74A3-1157-433D-A1C2-30A47DD0B98F}|FoodieMatchApp\\FoodieMatchApp.csproj|d:\\finalconstruccion\\proyecto_front\\foodiematchapp\\foodiematchapp\\models\\restaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFE74A3-1157-433D-A1C2-30A47DD0B98F}|FoodieMatchApp\\FoodieMatchApp.csproj|solutionrelative:foodiematchapp\\models\\restaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFE74A3-1157-433D-A1C2-30A47DD0B98F}|FoodieMatchApp\\FoodieMatchApp.csproj|d:\\finalconstruccion\\proyecto_front\\foodiematchapp\\foodiematchapp\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFE74A3-1157-433D-A1C2-30A47DD0B98F}|FoodieMatchApp\\FoodieMatchApp.csproj|solutionrelative:foodiematchapp\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFE74A3-1157-433D-A1C2-30A47DD0B98F}|FoodieMatchApp\\FoodieMatchApp.csproj|d:\\finalconstruccion\\proyecto_front\\foodiematchapp\\foodiematchapp\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFE74A3-1157-433D-A1C2-30A47DD0B98F}|FoodieMatchApp\\FoodieMatchApp.csproj|solutionrelative:foodiematchapp\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFE74A3-1157-433D-A1C2-30A47DD0B98F}|FoodieMatchApp\\FoodieMatchApp.csproj|d:\\finalconstruccion\\proyecto_front\\foodiematchapp\\foodiematchapp\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBFE74A3-1157-433D-A1C2-30A47DD0B98F}|FoodieMatchApp\\FoodieMatchApp.csproj|solutionrelative:foodiematchapp\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFE74A3-1157-433D-A1C2-30A47DD0B98F}|FoodieMatchApp\\FoodieMatchApp.csproj|d:\\finalconstruccion\\proyecto_front\\foodiematchapp\\foodiematchapp\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFE74A3-1157-433D-A1C2-30A47DD0B98F}|FoodieMatchApp\\FoodieMatchApp.csproj|solutionrelative:foodiematchapp\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFE74A3-1157-433D-A1C2-30A47DD0B98F}|FoodieMatchApp\\FoodieMatchApp.csproj|d:\\finalconstruccion\\proyecto_front\\foodiematchapp\\foodiematchapp\\services\\restauranteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFE74A3-1157-433D-A1C2-30A47DD0B98F}|FoodieMatchApp\\FoodieMatchApp.csproj|solutionrelative:foodiematchapp\\services\\restauranteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFE74A3-1157-433D-A1C2-30A47DD0B98F}|FoodieMatchApp\\FoodieMatchApp.csproj|d:\\finalconstruccion\\proyecto_front\\foodiematchapp\\foodiematchapp\\services\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFE74A3-1157-433D-A1C2-30A47DD0B98F}|FoodieMatchApp\\FoodieMatchApp.csproj|solutionrelative:foodiematchapp\\services\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFE74A3-1157-433D-A1C2-30A47DD0B98F}|FoodieMatchApp\\FoodieMatchApp.csproj|d:\\finalconstruccion\\proyecto_front\\foodiematchapp\\foodiematchapp\\foodiematchapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BBFE74A3-1157-433D-A1C2-30A47DD0B98F}|FoodieMatchApp\\FoodieMatchApp.csproj|solutionrelative:foodiematchapp\\foodiematchapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FinalConstruccion\\Proyecto_Front\\FoodieMatchApp\\FoodieMatchApp\\Program.cs",
+              "RelativeDocumentMoniker": "FoodieMatchApp\\Program.cs",
+              "ToolTip": "D:\\FinalConstruccion\\Proyecto_Front\\FoodieMatchApp\\FoodieMatchApp\\Program.cs",
+              "RelativeToolTip": "FoodieMatchApp\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAywBIAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T23:27:15.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Eleccion.razor",
+              "DocumentMoniker": "D:\\FinalConstruccion\\Proyecto_Front\\FoodieMatchApp\\FoodieMatchApp\\Pages\\Eleccion.razor",
+              "RelativeDocumentMoniker": "FoodieMatchApp\\Pages\\Eleccion.razor",
+              "ToolTip": "D:\\FinalConstruccion\\Proyecto_Front\\FoodieMatchApp\\FoodieMatchApp\\Pages\\Eleccion.razor",
+              "RelativeToolTip": "FoodieMatchApp\\Pages\\Eleccion.razor",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAADkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T23:24:35.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\FinalConstruccion\\Proyecto_Front\\FoodieMatchApp\\FoodieMatchApp\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "FoodieMatchApp\\Pages\\Home.razor",
+              "ToolTip": "D:\\FinalConstruccion\\Proyecto_Front\\FoodieMatchApp\\FoodieMatchApp\\Pages\\Home.razor",
+              "RelativeToolTip": "FoodieMatchApp\\Pages\\Home.razor",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T23:21:04.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "D:\\FinalConstruccion\\Proyecto_Front\\FoodieMatchApp\\FoodieMatchApp\\Services\\ProductoService.cs",
+              "RelativeDocumentMoniker": "FoodieMatchApp\\Services\\ProductoService.cs",
+              "ToolTip": "D:\\FinalConstruccion\\Proyecto_Front\\FoodieMatchApp\\FoodieMatchApp\\Services\\ProductoService.cs",
+              "RelativeToolTip": "FoodieMatchApp\\Services\\ProductoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T23:11:55.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.razor",
+              "DocumentMoniker": "D:\\FinalConstruccion\\Proyecto_Front\\FoodieMatchApp\\FoodieMatchApp\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "FoodieMatchApp\\Pages\\Login.razor",
+              "ToolTip": "D:\\FinalConstruccion\\Proyecto_Front\\FoodieMatchApp\\FoodieMatchApp\\Pages\\Login.razor",
+              "RelativeToolTip": "FoodieMatchApp\\Pages\\Login.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T23:30:35.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario.razor",
+              "DocumentMoniker": "D:\\FinalConstruccion\\Proyecto_Front\\FoodieMatchApp\\FoodieMatchApp\\Pages\\Usuario.razor",
+              "RelativeDocumentMoniker": "FoodieMatchApp\\Pages\\Usuario.razor",
+              "ToolTip": "D:\\FinalConstruccion\\Proyecto_Front\\FoodieMatchApp\\FoodieMatchApp\\Pages\\Usuario.razor",
+              "RelativeToolTip": "FoodieMatchApp\\Pages\\Usuario.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T23:32:21.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\FinalConstruccion\\Proyecto_Front\\FoodieMatchApp\\FoodieMatchApp\\_Imports.razor",
+              "RelativeDocumentMoniker": "FoodieMatchApp\\_Imports.razor",
+              "ToolTip": "D:\\FinalConstruccion\\Proyecto_Front\\FoodieMatchApp\\FoodieMatchApp\\_Imports.razor",
+              "RelativeToolTip": "FoodieMatchApp\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T23:47:52.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EleccionService.cs",
+              "DocumentMoniker": "D:\\FinalConstruccion\\Proyecto_Front\\FoodieMatchApp\\FoodieMatchApp\\Services\\EleccionService.cs",
+              "RelativeDocumentMoniker": "FoodieMatchApp\\Services\\EleccionService.cs",
+              "ToolTip": "D:\\FinalConstruccion\\Proyecto_Front\\FoodieMatchApp\\FoodieMatchApp\\Services\\EleccionService.cs",
+              "RelativeToolTip": "FoodieMatchApp\\Services\\EleccionService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowBQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T23:08:27.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "usuario.css",
+              "DocumentMoniker": "D:\\FinalConstruccion\\Proyecto_Front\\FoodieMatchApp\\FoodieMatchApp\\wwwroot\\css\\usuario.css",
+              "RelativeDocumentMoniker": "FoodieMatchApp\\wwwroot\\css\\usuario.css",
+              "ToolTip": "D:\\FinalConstruccion\\Proyecto_Front\\FoodieMatchApp\\FoodieMatchApp\\wwwroot\\css\\usuario.css",
+              "RelativeToolTip": "FoodieMatchApp\\wwwroot\\css\\usuario.css",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-11T23:45:05.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "login.css",
+              "DocumentMoniker": "D:\\FinalConstruccion\\Proyecto_Front\\FoodieMatchApp\\FoodieMatchApp\\wwwroot\\css\\login.css",
+              "RelativeDocumentMoniker": "FoodieMatchApp\\wwwroot\\css\\login.css",
+              "ToolTip": "D:\\FinalConstruccion\\Proyecto_Front\\FoodieMatchApp\\FoodieMatchApp\\wwwroot\\css\\login.css",
+              "RelativeToolTip": "FoodieMatchApp\\wwwroot\\css\\login.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-11T23:46:43.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\FinalConstruccion\\Proyecto_Front\\FoodieMatchApp\\FoodieMatchApp\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "FoodieMatchApp\\Models\\Usuario.cs",
+              "ToolTip": "D:\\FinalConstruccion\\Proyecto_Front\\FoodieMatchApp\\FoodieMatchApp\\Models\\Usuario.cs",
+              "RelativeToolTip": "FoodieMatchApp\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T23:10:30.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "app.css",
+              "DocumentMoniker": "D:\\FinalConstruccion\\Proyecto_Front\\FoodieMatchApp\\FoodieMatchApp\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "FoodieMatchApp\\wwwroot\\css\\app.css",
+              "ToolTip": "D:\\FinalConstruccion\\Proyecto_Front\\FoodieMatchApp\\FoodieMatchApp\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "FoodieMatchApp\\wwwroot\\css\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-11T23:16:01.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "D:\\FinalConstruccion\\Proyecto_Front\\FoodieMatchApp\\FoodieMatchApp\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "FoodieMatchApp\\Models\\Categoria.cs",
+              "ToolTip": "D:\\FinalConstruccion\\Proyecto_Front\\FoodieMatchApp\\FoodieMatchApp\\Models\\Categoria.cs",
+              "RelativeToolTip": "FoodieMatchApp\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T23:07:16.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "D:\\FinalConstruccion\\Proyecto_Front\\FoodieMatchApp\\FoodieMatchApp\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "FoodieMatchApp\\Models\\Producto.cs",
+              "ToolTip": "D:\\FinalConstruccion\\Proyecto_Front\\FoodieMatchApp\\FoodieMatchApp\\Models\\Producto.cs",
+              "RelativeToolTip": "FoodieMatchApp\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T23:09:46.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Restaurante.cs",
+              "DocumentMoniker": "D:\\FinalConstruccion\\Proyecto_Front\\FoodieMatchApp\\FoodieMatchApp\\Models\\Restaurante.cs",
+              "RelativeDocumentMoniker": "FoodieMatchApp\\Models\\Restaurante.cs",
+              "ToolTip": "D:\\FinalConstruccion\\Proyecto_Front\\FoodieMatchApp\\FoodieMatchApp\\Models\\Restaurante.cs",
+              "RelativeToolTip": "FoodieMatchApp\\Models\\Restaurante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T23:10:13.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RestauranteService.cs",
+              "DocumentMoniker": "D:\\FinalConstruccion\\Proyecto_Front\\FoodieMatchApp\\FoodieMatchApp\\Services\\RestauranteService.cs",
+              "RelativeDocumentMoniker": "FoodieMatchApp\\Services\\RestauranteService.cs",
+              "ToolTip": "D:\\FinalConstruccion\\Proyecto_Front\\FoodieMatchApp\\FoodieMatchApp\\Services\\RestauranteService.cs",
+              "RelativeToolTip": "FoodieMatchApp\\Services\\RestauranteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T23:12:18.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "D:\\FinalConstruccion\\Proyecto_Front\\FoodieMatchApp\\FoodieMatchApp\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "FoodieMatchApp\\Services\\UsuarioService.cs",
+              "ToolTip": "D:\\FinalConstruccion\\Proyecto_Front\\FoodieMatchApp\\FoodieMatchApp\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "FoodieMatchApp\\Services\\UsuarioService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T23:12:40.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\FinalConstruccion\\Proyecto_Front\\FoodieMatchApp\\FoodieMatchApp\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "FoodieMatchApp\\Layout\\MainLayout.razor",
+              "ToolTip": "D:\\FinalConstruccion\\Proyecto_Front\\FoodieMatchApp\\FoodieMatchApp\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "FoodieMatchApp\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T23:14:21.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CategoriaService.cs",
+              "DocumentMoniker": "D:\\FinalConstruccion\\Proyecto_Front\\FoodieMatchApp\\FoodieMatchApp\\Services\\CategoriaService.cs",
+              "RelativeDocumentMoniker": "FoodieMatchApp\\Services\\CategoriaService.cs",
+              "ToolTip": "D:\\FinalConstruccion\\Proyecto_Front\\FoodieMatchApp\\FoodieMatchApp\\Services\\CategoriaService.cs",
+              "RelativeToolTip": "FoodieMatchApp\\Services\\CategoriaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T23:06:13.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FoodieMatchApp.csproj",
+              "DocumentMoniker": "D:\\FinalConstruccion\\Proyecto_Front\\FoodieMatchApp\\FoodieMatchApp\\FoodieMatchApp.csproj",
+              "RelativeDocumentMoniker": "FoodieMatchApp\\FoodieMatchApp.csproj",
+              "ToolTip": "D:\\FinalConstruccion\\Proyecto_Front\\FoodieMatchApp\\FoodieMatchApp\\FoodieMatchApp.csproj",
+              "RelativeToolTip": "FoodieMatchApp\\FoodieMatchApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-11T23:04:20.331Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
