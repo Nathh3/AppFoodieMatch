@@ -4,7 +4,6 @@ using FoodieMatchAPI.Repository.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Data;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace FoodieMatchAPI.Repository.Implements
@@ -41,7 +40,7 @@ namespace FoodieMatchAPI.Repository.Implements
             }
             catch (Exception ex)
             {
-                
+
                 throw new Exception("Error al obtener las elecciones por usuario", ex);
             }
         }

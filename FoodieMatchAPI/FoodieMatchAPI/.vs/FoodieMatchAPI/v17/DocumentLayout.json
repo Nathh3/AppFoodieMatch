@@ -1,117 +1,129 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\",
+  "WorkspaceRootPath": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|d:\\finalconstruccion\\foodiematchapi\\foodiematchapi\\foodiematchapi.repository\\implements\\eleccionquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|solutionrelative:foodiematchapi.repository\\implements\\eleccionquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA5ABAB1-D0A9-4DEE-A320-3C972C629F9E}|FoodieMatchAPI\\FoodieMatchAPI.csproj|d:\\finalconstruccion\\foodiematchapi\\foodiematchapi\\foodiematchapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{DA5ABAB1-D0A9-4DEE-A320-3C972C629F9E}|FoodieMatchAPI\\FoodieMatchAPI.csproj|solutionrelative:foodiematchapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA5ABAB1-D0A9-4DEE-A320-3C972C629F9E}|FoodieMatchAPI\\FoodieMatchAPI.csproj|d:\\finalconstruccion\\foodiematchapi\\foodiematchapi\\foodiematchapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA5ABAB1-D0A9-4DEE-A320-3C972C629F9E}|FoodieMatchAPI\\FoodieMatchAPI.csproj|solutionrelative:foodiematchapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|d:\\finalconstruccion\\foodiematchapi\\foodiematchapi\\foodiematchapi.repository\\interfaces\\ieleccionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|solutionrelative:foodiematchapi.repository\\interfaces\\ieleccionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4395CB6E-4F77-48AD-B264-C5B25D7B7D0C}|FoodieMatchAPI.Models\\FoodieMatchAPI.Models.csproj|d:\\finalconstruccion\\foodiematchapi\\foodiematchapi\\foodiematchapi.models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4395CB6E-4F77-48AD-B264-C5B25D7B7D0C}|FoodieMatchAPI.Models\\FoodieMatchAPI.Models.csproj|solutionrelative:foodiematchapi.models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA5ABAB1-D0A9-4DEE-A320-3C972C629F9E}|FoodieMatchAPI\\FoodieMatchAPI.csproj|d:\\finalconstruccion\\foodiematchapi\\foodiematchapi\\foodiematchapi\\controllers\\restaurantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA5ABAB1-D0A9-4DEE-A320-3C972C629F9E}|FoodieMatchAPI\\FoodieMatchAPI.csproj|solutionrelative:foodiematchapi\\controllers\\restaurantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA5ABAB1-D0A9-4DEE-A320-3C972C629F9E}|FoodieMatchAPI\\FoodieMatchAPI.csproj|d:\\finalconstruccion\\foodiematchapi\\foodiematchapi\\foodiematchapi\\controllers\\eleccioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA5ABAB1-D0A9-4DEE-A320-3C972C629F9E}|FoodieMatchAPI\\FoodieMatchAPI.csproj|d:\\appfoodiematch\\foodiematchapi\\foodiematchapi\\foodiematchapi\\controllers\\eleccioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA5ABAB1-D0A9-4DEE-A320-3C972C629F9E}|FoodieMatchAPI\\FoodieMatchAPI.csproj|solutionrelative:foodiematchapi\\controllers\\eleccioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA5ABAB1-D0A9-4DEE-A320-3C972C629F9E}|FoodieMatchAPI\\FoodieMatchAPI.csproj|d:\\finalconstruccion\\foodiematchapi\\foodiematchapi\\foodiematchapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA5ABAB1-D0A9-4DEE-A320-3C972C629F9E}|FoodieMatchAPI\\FoodieMatchAPI.csproj|solutionrelative:foodiematchapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA5ABAB1-D0A9-4DEE-A320-3C972C629F9E}|FoodieMatchAPI\\FoodieMatchAPI.csproj|d:\\appfoodiematch\\foodiematchapi\\foodiematchapi\\foodiematchapi\\controllers\\restaurantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA5ABAB1-D0A9-4DEE-A320-3C972C629F9E}|FoodieMatchAPI\\FoodieMatchAPI.csproj|solutionrelative:foodiematchapi\\controllers\\restaurantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA5ABAB1-D0A9-4DEE-A320-3C972C629F9E}|FoodieMatchAPI\\FoodieMatchAPI.csproj|d:\\finalconstruccion\\foodiematchapi\\foodiematchapi\\foodiematchapi\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA5ABAB1-D0A9-4DEE-A320-3C972C629F9E}|FoodieMatchAPI\\FoodieMatchAPI.csproj|solutionrelative:foodiematchapi\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA5ABAB1-D0A9-4DEE-A320-3C972C629F9E}|FoodieMatchAPI\\FoodieMatchAPI.csproj|d:\\finalconstruccion\\foodiematchapi\\foodiematchapi\\foodiematchapi\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA5ABAB1-D0A9-4DEE-A320-3C972C629F9E}|FoodieMatchAPI\\FoodieMatchAPI.csproj|solutionrelative:foodiematchapi\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|d:\\finalconstruccion\\foodiematchapi\\foodiematchapi\\foodiematchapi.repository\\interfaces\\ieleccionquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|solutionrelative:foodiematchapi.repository\\interfaces\\ieleccionquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|d:\\finalconstruccion\\foodiematchapi\\foodiematchapi\\foodiematchapi.repository\\interfaces\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|solutionrelative:foodiematchapi.repository\\interfaces\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|d:\\finalconstruccion\\foodiematchapi\\foodiematchapi\\foodiematchapi.repository\\implements\\eleccionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|solutionrelative:foodiematchapi.repository\\implements\\eleccionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|d:\\finalconstruccion\\foodiematchapi\\foodiematchapi\\foodiematchapi.repository\\implements\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|solutionrelative:foodiematchapi.repository\\implements\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|d:\\finalconstruccion\\foodiematchapi\\foodiematchapi\\foodiematchapi.repository\\implements\\restauranterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|solutionrelative:foodiematchapi.repository\\implements\\restauranterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|d:\\finalconstruccion\\foodiematchapi\\foodiematchapi\\foodiematchapi.repository\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|solutionrelative:foodiematchapi.repository\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|d:\\finalconstruccion\\foodiematchapi\\foodiematchapi\\foodiematchapi.repository\\interfaces\\iproductoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|solutionrelative:foodiematchapi.repository\\interfaces\\iproductoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|d:\\finalconstruccion\\foodiematchapi\\foodiematchapi\\foodiematchapi.repository\\implements\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|solutionrelative:foodiematchapi.repository\\implements\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|d:\\finalconstruccion\\foodiematchapi\\foodiematchapi\\foodiematchapi.repository\\interfaces\\iusuarioquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|solutionrelative:foodiematchapi.repository\\interfaces\\iusuarioquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|d:\\finalconstruccion\\foodiematchapi\\foodiematchapi\\foodiematchapi.repository\\implements\\usuarioquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|solutionrelative:foodiematchapi.repository\\implements\\usuarioquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4395CB6E-4F77-48AD-B264-C5B25D7B7D0C}|FoodieMatchAPI.Models\\FoodieMatchAPI.Models.csproj|d:\\finalconstruccion\\foodiematchapi\\foodiematchapi\\foodiematchapi.models\\restaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4395CB6E-4F77-48AD-B264-C5B25D7B7D0C}|FoodieMatchAPI.Models\\FoodieMatchAPI.Models.csproj|solutionrelative:foodiematchapi.models\\restaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|d:\\finalconstruccion\\foodiematchapi\\foodiematchapi\\foodiematchapi.repository\\implements\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|solutionrelative:foodiematchapi.repository\\implements\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|d:\\finalconstruccion\\foodiematchapi\\foodiematchapi\\foodiematchapi.repository\\implements\\productoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|solutionrelative:foodiematchapi.repository\\implements\\productoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|d:\\finalconstruccion\\foodiematchapi\\foodiematchapi\\foodiematchapi.repository\\interfaces\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|solutionrelative:foodiematchapi.repository\\interfaces\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|d:\\finalconstruccion\\foodiematchapi\\foodiematchapi\\foodiematchapi.repository\\implements\\restaurantequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|solutionrelative:foodiematchapi.repository\\implements\\restaurantequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|d:\\finalconstruccion\\foodiematchapi\\foodiematchapi\\foodiematchapi.repository\\foodiematchapi.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|d:\\appfoodiematch\\foodiematchapi\\foodiematchapi\\foodiematchapi.repository\\foodiematchapi.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|solutionrelative:foodiematchapi.repository\\foodiematchapi.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|d:\\finalconstruccion\\foodiematchapi\\foodiematchapi\\foodiematchapi.repository\\interfaces\\irestaurantequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA5ABAB1-D0A9-4DEE-A320-3C972C629F9E}|FoodieMatchAPI\\FoodieMatchAPI.csproj|d:\\appfoodiematch\\foodiematchapi\\foodiematchapi\\foodiematchapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA5ABAB1-D0A9-4DEE-A320-3C972C629F9E}|FoodieMatchAPI\\FoodieMatchAPI.csproj|solutionrelative:foodiematchapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA5ABAB1-D0A9-4DEE-A320-3C972C629F9E}|FoodieMatchAPI\\FoodieMatchAPI.csproj|d:\\appfoodiematch\\foodiematchapi\\foodiematchapi\\foodiematchapi\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA5ABAB1-D0A9-4DEE-A320-3C972C629F9E}|FoodieMatchAPI\\FoodieMatchAPI.csproj|solutionrelative:foodiematchapi\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA5ABAB1-D0A9-4DEE-A320-3C972C629F9E}|FoodieMatchAPI\\FoodieMatchAPI.csproj|d:\\appfoodiematch\\foodiematchapi\\foodiematchapi\\foodiematchapi\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA5ABAB1-D0A9-4DEE-A320-3C972C629F9E}|FoodieMatchAPI\\FoodieMatchAPI.csproj|solutionrelative:foodiematchapi\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4395CB6E-4F77-48AD-B264-C5B25D7B7D0C}|FoodieMatchAPI.Models\\FoodieMatchAPI.Models.csproj|d:\\appfoodiematch\\foodiematchapi\\foodiematchapi\\foodiematchapi.models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4395CB6E-4F77-48AD-B264-C5B25D7B7D0C}|FoodieMatchAPI.Models\\FoodieMatchAPI.Models.csproj|solutionrelative:foodiematchapi.models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4395CB6E-4F77-48AD-B264-C5B25D7B7D0C}|FoodieMatchAPI.Models\\FoodieMatchAPI.Models.csproj|d:\\appfoodiematch\\foodiematchapi\\foodiematchapi\\foodiematchapi.models\\restaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4395CB6E-4F77-48AD-B264-C5B25D7B7D0C}|FoodieMatchAPI.Models\\FoodieMatchAPI.Models.csproj|solutionrelative:foodiematchapi.models\\restaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA5ABAB1-D0A9-4DEE-A320-3C972C629F9E}|FoodieMatchAPI\\FoodieMatchAPI.csproj|d:\\appfoodiematch\\foodiematchapi\\foodiematchapi\\foodiematchapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DA5ABAB1-D0A9-4DEE-A320-3C972C629F9E}|FoodieMatchAPI\\FoodieMatchAPI.csproj|solutionrelative:foodiematchapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4395CB6E-4F77-48AD-B264-C5B25D7B7D0C}|FoodieMatchAPI.Models\\FoodieMatchAPI.Models.csproj|d:\\appfoodiematch\\foodiematchapi\\foodiematchapi\\foodiematchapi.models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4395CB6E-4F77-48AD-B264-C5B25D7B7D0C}|FoodieMatchAPI.Models\\FoodieMatchAPI.Models.csproj|solutionrelative:foodiematchapi.models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4395CB6E-4F77-48AD-B264-C5B25D7B7D0C}|FoodieMatchAPI.Models\\FoodieMatchAPI.Models.csproj|d:\\appfoodiematch\\foodiematchapi\\foodiematchapi\\foodiematchapi.models\\eleccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4395CB6E-4F77-48AD-B264-C5B25D7B7D0C}|FoodieMatchAPI.Models\\FoodieMatchAPI.Models.csproj|solutionrelative:foodiematchapi.models\\eleccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4395CB6E-4F77-48AD-B264-C5B25D7B7D0C}|FoodieMatchAPI.Models\\FoodieMatchAPI.Models.csproj|d:\\appfoodiematch\\foodiematchapi\\foodiematchapi\\foodiematchapi.models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4395CB6E-4F77-48AD-B264-C5B25D7B7D0C}|FoodieMatchAPI.Models\\FoodieMatchAPI.Models.csproj|solutionrelative:foodiematchapi.models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA5ABAB1-D0A9-4DEE-A320-3C972C629F9E}|FoodieMatchAPI\\FoodieMatchAPI.csproj|d:\\appfoodiematch\\foodiematchapi\\foodiematchapi\\foodiematchapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA5ABAB1-D0A9-4DEE-A320-3C972C629F9E}|FoodieMatchAPI\\FoodieMatchAPI.csproj|solutionrelative:foodiematchapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|d:\\appfoodiematch\\foodiematchapi\\foodiematchapi\\foodiematchapi.repository\\implements\\eleccionquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|solutionrelative:foodiematchapi.repository\\implements\\eleccionquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|d:\\appfoodiematch\\foodiematchapi\\foodiematchapi\\foodiematchapi.repository\\interfaces\\ieleccionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|solutionrelative:foodiematchapi.repository\\interfaces\\ieleccionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|d:\\appfoodiematch\\foodiematchapi\\foodiematchapi\\foodiematchapi.repository\\interfaces\\ieleccionquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|solutionrelative:foodiematchapi.repository\\interfaces\\ieleccionquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|d:\\appfoodiematch\\foodiematchapi\\foodiematchapi\\foodiematchapi.repository\\interfaces\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|solutionrelative:foodiematchapi.repository\\interfaces\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|d:\\appfoodiematch\\foodiematchapi\\foodiematchapi\\foodiematchapi.repository\\implements\\eleccionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|solutionrelative:foodiematchapi.repository\\implements\\eleccionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|d:\\appfoodiematch\\foodiematchapi\\foodiematchapi\\foodiematchapi.repository\\implements\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|solutionrelative:foodiematchapi.repository\\implements\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|d:\\appfoodiematch\\foodiematchapi\\foodiematchapi\\foodiematchapi.repository\\implements\\restauranterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|solutionrelative:foodiematchapi.repository\\implements\\restauranterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|d:\\appfoodiematch\\foodiematchapi\\foodiematchapi\\foodiematchapi.repository\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|solutionrelative:foodiematchapi.repository\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|d:\\appfoodiematch\\foodiematchapi\\foodiematchapi\\foodiematchapi.repository\\interfaces\\iproductoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|solutionrelative:foodiematchapi.repository\\interfaces\\iproductoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|d:\\appfoodiematch\\foodiematchapi\\foodiematchapi\\foodiematchapi.repository\\implements\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|solutionrelative:foodiematchapi.repository\\implements\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|d:\\appfoodiematch\\foodiematchapi\\foodiematchapi\\foodiematchapi.repository\\interfaces\\iusuarioquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|solutionrelative:foodiematchapi.repository\\interfaces\\iusuarioquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|d:\\appfoodiematch\\foodiematchapi\\foodiematchapi\\foodiematchapi.repository\\implements\\usuarioquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|solutionrelative:foodiematchapi.repository\\implements\\usuarioquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|d:\\appfoodiematch\\foodiematchapi\\foodiematchapi\\foodiematchapi.repository\\implements\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|solutionrelative:foodiematchapi.repository\\implements\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|d:\\appfoodiematch\\foodiematchapi\\foodiematchapi\\foodiematchapi.repository\\implements\\productoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|solutionrelative:foodiematchapi.repository\\implements\\productoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|d:\\appfoodiematch\\foodiematchapi\\foodiematchapi\\foodiematchapi.repository\\interfaces\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|solutionrelative:foodiematchapi.repository\\interfaces\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|d:\\appfoodiematch\\foodiematchapi\\foodiematchapi\\foodiematchapi.repository\\implements\\restaurantequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|solutionrelative:foodiematchapi.repository\\implements\\restaurantequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|d:\\appfoodiematch\\foodiematchapi\\foodiematchapi\\foodiematchapi.repository\\interfaces\\irestaurantequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|solutionrelative:foodiematchapi.repository\\interfaces\\irestaurantequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|d:\\finalconstruccion\\foodiematchapi\\foodiematchapi\\foodiematchapi.repository\\interfaces\\irestauranterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|d:\\appfoodiematch\\foodiematchapi\\foodiematchapi\\foodiematchapi.repository\\interfaces\\irestauranterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{927252D8-36C9-42F0-BC1C-405008C97CC4}|FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj|solutionrelative:foodiematchapi.repository\\interfaces\\irestauranterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -122,318 +134,112 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "FoodieMatchAPI\\Controllers\\UsuarioController.cs",
-              "ToolTip": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "FoodieMatchAPI\\Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABIAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "FoodieMatchAPI\\appsettings.json",
+              "ToolTip": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI\\appsettings.json",
+              "RelativeToolTip": "FoodieMatchAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-10T00:06:08.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EleccionController.cs",
+              "DocumentMoniker": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI\\Controllers\\EleccionController.cs",
+              "RelativeDocumentMoniker": "FoodieMatchAPI\\Controllers\\EleccionController.cs",
+              "ToolTip": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI\\Controllers\\EleccionController.cs",
+              "RelativeToolTip": "FoodieMatchAPI\\Controllers\\EleccionController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA4wJgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T02:41:37.326Z"
+              "WhenOpened": "2025-11-12T01:58:59.229Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "EleccionController.cs",
-              "DocumentMoniker": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI\\Controllers\\EleccionController.cs",
-              "RelativeDocumentMoniker": "FoodieMatchAPI\\Controllers\\EleccionController.cs",
-              "ToolTip": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI\\Controllers\\EleccionController.cs",
-              "RelativeToolTip": "FoodieMatchAPI\\Controllers\\EleccionController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAQwB4AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T01:58:59.229Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Usuario.cs",
-              "DocumentMoniker": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Models\\Usuario.cs",
+              "DocumentMoniker": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Models\\Usuario.cs",
               "RelativeDocumentMoniker": "FoodieMatchAPI.Models\\Usuario.cs",
-              "ToolTip": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Models\\Usuario.cs",
+              "ToolTip": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Models\\Usuario.cs",
               "RelativeToolTip": "FoodieMatchAPI.Models\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA3wCwAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-22T21:24:54.142Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IEleccionRepository.cs",
-              "DocumentMoniker": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Interfaces\\IEleccionRepository.cs",
-              "RelativeDocumentMoniker": "FoodieMatchAPI.Repository\\Interfaces\\IEleccionRepository.cs",
-              "ToolTip": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Interfaces\\IEleccionRepository.cs",
-              "RelativeToolTip": "FoodieMatchAPI.Repository\\Interfaces\\IEleccionRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T01:52:05.162Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EleccionQuery.cs",
-              "DocumentMoniker": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Implements\\EleccionQuery.cs",
-              "RelativeDocumentMoniker": "FoodieMatchAPI.Repository\\Implements\\EleccionQuery.cs",
-              "ToolTip": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Implements\\EleccionQuery.cs",
-              "RelativeToolTip": "FoodieMatchAPI.Repository\\Implements\\EleccionQuery.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAgwCwAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T02:07:37.994Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI\\Program.cs",
-              "RelativeDocumentMoniker": "FoodieMatchAPI\\Program.cs",
-              "ToolTip": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI\\Program.cs",
-              "RelativeToolTip": "FoodieMatchAPI\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T02:10:54.318Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "FoodieMatchAPI\\appsettings.json",
-              "ToolTip": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI\\appsettings.json",
-              "RelativeToolTip": "FoodieMatchAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-10T00:06:08.962Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "ProductoController.cs",
-              "DocumentMoniker": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI\\Controllers\\ProductoController.cs",
+              "DocumentMoniker": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI\\Controllers\\ProductoController.cs",
               "RelativeDocumentMoniker": "FoodieMatchAPI\\Controllers\\ProductoController.cs",
-              "ToolTip": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI\\Controllers\\ProductoController.cs",
+              "ToolTip": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI\\Controllers\\ProductoController.cs",
               "RelativeToolTip": "FoodieMatchAPI\\Controllers\\ProductoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAkwG4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-20T02:11:50.004Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RestauranteController.cs",
-              "DocumentMoniker": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI\\Controllers\\RestauranteController.cs",
-              "RelativeDocumentMoniker": "FoodieMatchAPI\\Controllers\\RestauranteController.cs",
-              "ToolTip": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI\\Controllers\\RestauranteController.cs",
-              "RelativeToolTip": "FoodieMatchAPI\\Controllers\\RestauranteController.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAkwAgAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T02:03:40.781Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ICategoriaRepository.cs",
-              "DocumentMoniker": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Interfaces\\ICategoriaRepository.cs",
-              "RelativeDocumentMoniker": "FoodieMatchAPI.Repository\\Interfaces\\ICategoriaRepository.cs",
-              "ToolTip": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Interfaces\\ICategoriaRepository.cs",
-              "RelativeToolTip": "FoodieMatchAPI.Repository\\Interfaces\\ICategoriaRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T23:53:49.246Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CategoriaController.cs",
-              "DocumentMoniker": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI\\Controllers\\CategoriaController.cs",
-              "RelativeDocumentMoniker": "FoodieMatchAPI\\Controllers\\CategoriaController.cs",
-              "ToolTip": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI\\Controllers\\CategoriaController.cs",
-              "RelativeToolTip": "FoodieMatchAPI\\Controllers\\CategoriaController.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA8AAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T02:15:58.713Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "EleccionRepository.cs",
-              "DocumentMoniker": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Implements\\EleccionRepository.cs",
-              "RelativeDocumentMoniker": "FoodieMatchAPI.Repository\\Implements\\EleccionRepository.cs",
-              "ToolTip": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Implements\\EleccionRepository.cs",
-              "RelativeToolTip": "FoodieMatchAPI.Repository\\Implements\\EleccionRepository.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAiwC4AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T01:42:16.163Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IEleccionQuery.cs",
-              "DocumentMoniker": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Interfaces\\IEleccionQuery.cs",
-              "RelativeDocumentMoniker": "FoodieMatchAPI.Repository\\Interfaces\\IEleccionQuery.cs",
-              "ToolTip": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Interfaces\\IEleccionQuery.cs",
-              "RelativeToolTip": "FoodieMatchAPI.Repository\\Interfaces\\IEleccionQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T02:06:59.298Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "UsuarioQuery.cs",
-              "DocumentMoniker": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Implements\\UsuarioQuery.cs",
-              "RelativeDocumentMoniker": "FoodieMatchAPI.Repository\\Implements\\UsuarioQuery.cs",
-              "ToolTip": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Implements\\UsuarioQuery.cs",
-              "RelativeToolTip": "FoodieMatchAPI.Repository\\Implements\\UsuarioQuery.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T00:11:29.513Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CategoriaRepository.cs",
-              "DocumentMoniker": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Implements\\CategoriaRepository.cs",
-              "RelativeDocumentMoniker": "FoodieMatchAPI.Repository\\Implements\\CategoriaRepository.cs",
-              "ToolTip": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Implements\\CategoriaRepository.cs",
-              "RelativeToolTip": "FoodieMatchAPI.Repository\\Implements\\CategoriaRepository.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAmwDgAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T00:17:58.435Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "RestauranteRepository.cs",
-              "DocumentMoniker": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Implements\\RestauranteRepository.cs",
-              "RelativeDocumentMoniker": "FoodieMatchAPI.Repository\\Implements\\RestauranteRepository.cs",
-              "ToolTip": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Implements\\RestauranteRepository.cs",
-              "RelativeToolTip": "FoodieMatchAPI.Repository\\Implements\\RestauranteRepository.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABkAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T00:24:19.318Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IProductoQuery.cs",
-              "DocumentMoniker": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Interfaces\\IProductoQuery.cs",
-              "RelativeDocumentMoniker": "FoodieMatchAPI.Repository\\Interfaces\\IProductoQuery.cs",
-              "ToolTip": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Interfaces\\IProductoQuery.cs",
-              "RelativeToolTip": "FoodieMatchAPI.Repository\\Interfaces\\IProductoQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T00:03:17.871Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IUsuarioRepository.cs",
-              "DocumentMoniker": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Interfaces\\IUsuarioRepository.cs",
-              "RelativeDocumentMoniker": "FoodieMatchAPI.Repository\\Interfaces\\IUsuarioRepository.cs",
-              "ToolTip": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Interfaces\\IUsuarioRepository.cs",
-              "RelativeToolTip": "FoodieMatchAPI.Repository\\Interfaces\\IUsuarioRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T23:40:45.323Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "IUsuarioQuery.cs",
-              "DocumentMoniker": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Interfaces\\IUsuarioQuery.cs",
-              "RelativeDocumentMoniker": "FoodieMatchAPI.Repository\\Interfaces\\IUsuarioQuery.cs",
-              "ToolTip": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Interfaces\\IUsuarioQuery.cs",
-              "RelativeToolTip": "FoodieMatchAPI.Repository\\Interfaces\\IUsuarioQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T23:34:36.412Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "UsuarioRepository.cs",
-              "DocumentMoniker": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Implements\\UsuarioRepository.cs",
-              "RelativeDocumentMoniker": "FoodieMatchAPI.Repository\\Implements\\UsuarioRepository.cs",
-              "ToolTip": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Implements\\UsuarioRepository.cs",
-              "RelativeToolTip": "FoodieMatchAPI.Repository\\Implements\\UsuarioRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T00:15:19.95Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 7,
               "Title": "Restaurante.cs",
-              "DocumentMoniker": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Models\\Restaurante.cs",
+              "DocumentMoniker": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Models\\Restaurante.cs",
               "RelativeDocumentMoniker": "FoodieMatchAPI.Models\\Restaurante.cs",
-              "ToolTip": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Models\\Restaurante.cs",
+              "ToolTip": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Models\\Restaurante.cs",
               "RelativeToolTip": "FoodieMatchAPI.Models\\Restaurante.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABkAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-22T21:25:32.71Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ProductoRepository.cs",
-              "DocumentMoniker": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Implements\\ProductoRepository.cs",
-              "RelativeDocumentMoniker": "FoodieMatchAPI.Repository\\Implements\\ProductoRepository.cs",
-              "ToolTip": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Implements\\ProductoRepository.cs",
-              "RelativeToolTip": "FoodieMatchAPI.Repository\\Implements\\ProductoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAsAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "FoodieMatchAPI\\Controllers\\CategoriaController.cs",
+              "ToolTip": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "FoodieMatchAPI\\Controllers\\CategoriaController.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAgwHIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T00:34:26.613Z"
+              "WhenOpened": "2025-10-20T02:15:58.713Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ProductoQuery.cs",
-              "DocumentMoniker": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Implements\\ProductoQuery.cs",
-              "RelativeDocumentMoniker": "FoodieMatchAPI.Repository\\Implements\\ProductoQuery.cs",
-              "ToolTip": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Implements\\ProductoQuery.cs",
-              "RelativeToolTip": "FoodieMatchAPI.Repository\\Implements\\ProductoQuery.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBcAAAAtAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "RestauranteController.cs",
+              "DocumentMoniker": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI\\Controllers\\RestauranteController.cs",
+              "RelativeDocumentMoniker": "FoodieMatchAPI\\Controllers\\RestauranteController.cs",
+              "ToolTip": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI\\Controllers\\RestauranteController.cs",
+              "RelativeToolTip": "FoodieMatchAPI\\Controllers\\RestauranteController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAIwHMAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T00:32:21.696Z"
+              "WhenOpened": "2025-10-20T02:03:40.781Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "IProductoRepository.cs",
-              "DocumentMoniker": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Interfaces\\IProductoRepository.cs",
-              "RelativeDocumentMoniker": "FoodieMatchAPI.Repository\\Interfaces\\IProductoRepository.cs",
-              "ToolTip": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Interfaces\\IProductoRepository.cs",
-              "RelativeToolTip": "FoodieMatchAPI.Repository\\Interfaces\\IProductoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "FoodieMatchAPI\\Controllers\\UsuarioController.cs",
+              "ToolTip": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "FoodieMatchAPI\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAwwJAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T00:04:05.848Z"
+              "WhenOpened": "2025-10-14T02:41:37.326Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "RestauranteQuery.cs",
-              "DocumentMoniker": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Implements\\RestauranteQuery.cs",
-              "RelativeDocumentMoniker": "FoodieMatchAPI.Repository\\Implements\\RestauranteQuery.cs",
-              "ToolTip": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Implements\\RestauranteQuery.cs",
-              "RelativeToolTip": "FoodieMatchAPI.Repository\\Implements\\RestauranteQuery.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T00:23:06.737Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 2,
               "Title": "FoodieMatchAPI.Repository.csproj",
-              "DocumentMoniker": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj",
+              "DocumentMoniker": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj",
               "RelativeDocumentMoniker": "FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj",
-              "ToolTip": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj",
+              "ToolTip": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj",
               "RelativeToolTip": "FoodieMatchAPI.Repository\\FoodieMatchAPI.Repository.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -441,11 +247,251 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Models\\Producto.cs",
+              "RelativeDocumentMoniker": "FoodieMatchAPI.Models\\Producto.cs",
+              "ToolTip": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Models\\Producto.cs",
+              "RelativeToolTip": "FoodieMatchAPI.Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T17:58:02.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Eleccion.cs",
+              "DocumentMoniker": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Models\\Eleccion.cs",
+              "RelativeDocumentMoniker": "FoodieMatchAPI.Models\\Eleccion.cs",
+              "ToolTip": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Models\\Eleccion.cs",
+              "RelativeToolTip": "FoodieMatchAPI.Models\\Eleccion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T17:56:51.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "FoodieMatchAPI.Models\\Categoria.cs",
+              "ToolTip": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Models\\Categoria.cs",
+              "RelativeToolTip": "FoodieMatchAPI.Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T17:43:55.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI\\Program.cs",
+              "RelativeDocumentMoniker": "FoodieMatchAPI\\Program.cs",
+              "ToolTip": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI\\Program.cs",
+              "RelativeToolTip": "FoodieMatchAPI\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T02:10:54.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IEleccionRepository.cs",
+              "DocumentMoniker": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Interfaces\\IEleccionRepository.cs",
+              "RelativeDocumentMoniker": "FoodieMatchAPI.Repository\\Interfaces\\IEleccionRepository.cs",
+              "ToolTip": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Interfaces\\IEleccionRepository.cs",
+              "RelativeToolTip": "FoodieMatchAPI.Repository\\Interfaces\\IEleccionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T01:52:05.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EleccionQuery.cs",
+              "DocumentMoniker": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Implements\\EleccionQuery.cs",
+              "RelativeDocumentMoniker": "FoodieMatchAPI.Repository\\Implements\\EleccionQuery.cs",
+              "ToolTip": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Implements\\EleccionQuery.cs",
+              "RelativeToolTip": "FoodieMatchAPI.Repository\\Implements\\EleccionQuery.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAgwCsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T02:07:37.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICategoriaRepository.cs",
+              "DocumentMoniker": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Interfaces\\ICategoriaRepository.cs",
+              "RelativeDocumentMoniker": "FoodieMatchAPI.Repository\\Interfaces\\ICategoriaRepository.cs",
+              "ToolTip": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Interfaces\\ICategoriaRepository.cs",
+              "RelativeToolTip": "FoodieMatchAPI.Repository\\Interfaces\\ICategoriaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T23:53:49.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EleccionRepository.cs",
+              "DocumentMoniker": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Implements\\EleccionRepository.cs",
+              "RelativeDocumentMoniker": "FoodieMatchAPI.Repository\\Implements\\EleccionRepository.cs",
+              "ToolTip": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Implements\\EleccionRepository.cs",
+              "RelativeToolTip": "FoodieMatchAPI.Repository\\Implements\\EleccionRepository.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAiwC4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T01:42:16.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IEleccionQuery.cs",
+              "DocumentMoniker": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Interfaces\\IEleccionQuery.cs",
+              "RelativeDocumentMoniker": "FoodieMatchAPI.Repository\\Interfaces\\IEleccionQuery.cs",
+              "ToolTip": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Interfaces\\IEleccionQuery.cs",
+              "RelativeToolTip": "FoodieMatchAPI.Repository\\Interfaces\\IEleccionQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T02:06:59.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UsuarioQuery.cs",
+              "DocumentMoniker": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Implements\\UsuarioQuery.cs",
+              "RelativeDocumentMoniker": "FoodieMatchAPI.Repository\\Implements\\UsuarioQuery.cs",
+              "ToolTip": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Implements\\UsuarioQuery.cs",
+              "RelativeToolTip": "FoodieMatchAPI.Repository\\Implements\\UsuarioQuery.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T00:11:29.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CategoriaRepository.cs",
+              "DocumentMoniker": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Implements\\CategoriaRepository.cs",
+              "RelativeDocumentMoniker": "FoodieMatchAPI.Repository\\Implements\\CategoriaRepository.cs",
+              "ToolTip": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Implements\\CategoriaRepository.cs",
+              "RelativeToolTip": "FoodieMatchAPI.Repository\\Implements\\CategoriaRepository.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAmwDgAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T00:17:58.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RestauranteRepository.cs",
+              "DocumentMoniker": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Implements\\RestauranteRepository.cs",
+              "RelativeDocumentMoniker": "FoodieMatchAPI.Repository\\Implements\\RestauranteRepository.cs",
+              "ToolTip": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Implements\\RestauranteRepository.cs",
+              "RelativeToolTip": "FoodieMatchAPI.Repository\\Implements\\RestauranteRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T00:24:19.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IProductoQuery.cs",
+              "DocumentMoniker": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Interfaces\\IProductoQuery.cs",
+              "RelativeDocumentMoniker": "FoodieMatchAPI.Repository\\Interfaces\\IProductoQuery.cs",
+              "ToolTip": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Interfaces\\IProductoQuery.cs",
+              "RelativeToolTip": "FoodieMatchAPI.Repository\\Interfaces\\IProductoQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T00:03:17.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "FoodieMatchAPI.Repository\\Interfaces\\IUsuarioRepository.cs",
+              "ToolTip": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeToolTip": "FoodieMatchAPI.Repository\\Interfaces\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T23:40:45.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IUsuarioQuery.cs",
+              "DocumentMoniker": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Interfaces\\IUsuarioQuery.cs",
+              "RelativeDocumentMoniker": "FoodieMatchAPI.Repository\\Interfaces\\IUsuarioQuery.cs",
+              "ToolTip": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Interfaces\\IUsuarioQuery.cs",
+              "RelativeToolTip": "FoodieMatchAPI.Repository\\Interfaces\\IUsuarioQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T23:34:36.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Implements\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "FoodieMatchAPI.Repository\\Implements\\UsuarioRepository.cs",
+              "ToolTip": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Implements\\UsuarioRepository.cs",
+              "RelativeToolTip": "FoodieMatchAPI.Repository\\Implements\\UsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T00:15:19.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductoRepository.cs",
+              "DocumentMoniker": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Implements\\ProductoRepository.cs",
+              "RelativeDocumentMoniker": "FoodieMatchAPI.Repository\\Implements\\ProductoRepository.cs",
+              "ToolTip": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Implements\\ProductoRepository.cs",
+              "RelativeToolTip": "FoodieMatchAPI.Repository\\Implements\\ProductoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T00:34:26.613Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 26,
+              "Title": "ProductoQuery.cs",
+              "DocumentMoniker": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Implements\\ProductoQuery.cs",
+              "RelativeDocumentMoniker": "FoodieMatchAPI.Repository\\Implements\\ProductoQuery.cs",
+              "ToolTip": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Implements\\ProductoQuery.cs",
+              "RelativeToolTip": "FoodieMatchAPI.Repository\\Implements\\ProductoQuery.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T00:32:21.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IProductoRepository.cs",
+              "DocumentMoniker": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Interfaces\\IProductoRepository.cs",
+              "RelativeDocumentMoniker": "FoodieMatchAPI.Repository\\Interfaces\\IProductoRepository.cs",
+              "ToolTip": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Interfaces\\IProductoRepository.cs",
+              "RelativeToolTip": "FoodieMatchAPI.Repository\\Interfaces\\IProductoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T00:04:05.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RestauranteQuery.cs",
+              "DocumentMoniker": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Implements\\RestauranteQuery.cs",
+              "RelativeDocumentMoniker": "FoodieMatchAPI.Repository\\Implements\\RestauranteQuery.cs",
+              "ToolTip": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Implements\\RestauranteQuery.cs",
+              "RelativeToolTip": "FoodieMatchAPI.Repository\\Implements\\RestauranteQuery.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T00:23:06.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
               "Title": "IRestauranteQuery.cs",
-              "DocumentMoniker": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Interfaces\\IRestauranteQuery.cs",
+              "DocumentMoniker": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Interfaces\\IRestauranteQuery.cs",
               "RelativeDocumentMoniker": "FoodieMatchAPI.Repository\\Interfaces\\IRestauranteQuery.cs",
-              "ToolTip": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Interfaces\\IRestauranteQuery.cs",
+              "ToolTip": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Interfaces\\IRestauranteQuery.cs",
               "RelativeToolTip": "FoodieMatchAPI.Repository\\Interfaces\\IRestauranteQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -453,11 +499,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "IRestauranteRepository.cs",
-              "DocumentMoniker": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Interfaces\\IRestauranteRepository.cs",
+              "DocumentMoniker": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Interfaces\\IRestauranteRepository.cs",
               "RelativeDocumentMoniker": "FoodieMatchAPI.Repository\\Interfaces\\IRestauranteRepository.cs",
-              "ToolTip": "D:\\FinalConstruccion\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Interfaces\\IRestauranteRepository.cs",
+              "ToolTip": "D:\\AppFoodieMatch\\FoodieMatchAPI\\FoodieMatchAPI\\FoodieMatchAPI.Repository\\Interfaces\\IRestauranteRepository.cs",
               "RelativeToolTip": "FoodieMatchAPI.Repository\\Interfaces\\IRestauranteRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

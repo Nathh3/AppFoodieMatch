@@ -1,11 +1,8 @@
-﻿using Dapper;
-using Dapper.Contrib.Extensions;
+﻿using Dapper.Contrib.Extensions;
 using FoodieMatchAPI.Models;
 using FoodieMatchAPI.Repository.Interfaces;
 using System;
-using System.Collections.Generic;
 using System.Data;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace FoodieMatchAPI.Repository.Implements
@@ -14,7 +11,7 @@ namespace FoodieMatchAPI.Repository.Implements
     {
         private readonly IDbConnection _db;
 
-        public  ProductoRepository(IDbConnection db)
+        public ProductoRepository(IDbConnection db)
         {
             _db = db ?? throw new ArgumentNullException(nameof(db));
         }

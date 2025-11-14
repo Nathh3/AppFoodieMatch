@@ -2,9 +2,7 @@
 using FoodieMatchAPI.Models;
 using FoodieMatchAPI.Repository.Interfaces;
 using System;
-using System.Collections.Generic;
 using System.Data;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace FoodieMatchAPI.Repository.Implements
@@ -65,8 +63,8 @@ namespace FoodieMatchAPI.Repository.Implements
                 throw new Exception("Error al actualizar la eleccion", ex);
             }
         }
-       
 
-        
+
+
     }
 }
